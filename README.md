@@ -227,8 +227,6 @@ Several directions for future improvement include:
 
 ---
 
-*This project was completed as part of the Recommender Systems course at [University Name], [Semester Year].*
-
 <div style="text-align: center">⁂</div>
 
 [^1]: data_preprocessing.ipynb
